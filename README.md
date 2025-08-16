@@ -4,4 +4,7 @@ This is a repository containing solutions to the problem statements given in [HD
 It has 180 problems covering various aspects of Digital designing such as Flipflops, Latches, Combinational circuits, FSMs etc.
 
 ---
-**Link** : [https://hdlbits.01xz.net/wiki/Main_Page](https://hdlbits.01xz.net/wiki/Main_Page)
+
+**Link to HDL Bits Website** : [https://hdlbits.01xz.net/wiki/Main_Page](https://hdlbits.01xz.net/wiki/Main_Page)  
+
+**My HDL Bits Profile** : [https://hdlbits.01xz.net/wiki/Special:VlgStats/82EE9441DD129347](https://hdlbits.01xz.net/wiki/Special:VlgStats/82EE9441DD129347)
